@@ -85,5 +85,4 @@ population = pd.DataFrame(accumulator,
 # asks the user where to save the file
 savepath = filedialog.askdirectory()
 savepath = savepath + '\\'
-
 population.to_excel(savepath+filename+'.xlsx', sheet_name='Data')
