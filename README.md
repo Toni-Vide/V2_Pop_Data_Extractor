@@ -1,5 +1,5 @@
 # V2_Pop_Data_Extractor
-This is a very simple tool that takes Victoria 2 savegames and extracts into an xlsx file the pop data.
+This is a very simple tool that takes Victoria 2 savegames and extracts into an xlsx file the pop data that they contain.
 
 To extract the pop data initiate the following steps:
 1. Download the EXE file
